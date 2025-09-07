@@ -1,3 +1,4 @@
 GRNT RESOLUSI
 - Belajas JS
 - BElajar Git/Github
+- Menjadi Web Developer
